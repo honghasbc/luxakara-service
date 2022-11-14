@@ -1,0 +1,6 @@
+luxakara:
+  bot:
+    username: luxakara_bot
+    token: 5748845532:AAF54fvPFi64hKYwMEddA2pNuchDuTJ0LOI
+    bot-route-packages:
+        - com.luxakara.soft.weatherbot
